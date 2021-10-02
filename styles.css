@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 html {border: none;}
 
 /* image styles */
@@ -17,7 +16,7 @@ html {border: none;}
 /* universal styles & utility classes */
     body { 
         font-family: 'Catamaran', sans-serif;
-        color:#192B37;
+        color black;
 }
 
 
@@ -26,7 +25,7 @@ html {border: none;}
 .padded-large   { padding: 10%}
 
 .bg-dark { 
-    background-color: #192B37;
+    background-color: black;
     color: rgb(248, 247, 247);
 }
 
@@ -127,7 +126,7 @@ P:last-child { margin-bottom: 0;}
 
     .bg-baconcheese {
         background-image: url('/images/bacon-cheese.jpg');
-        background-position: 50% 35%;
+        background-position: 50% 75%;
 }
 
 
