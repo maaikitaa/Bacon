@@ -16,7 +16,7 @@ html {border: none;}
 /* universal styles & utility classes */
     body { 
         font-family: 'Catamaran', sans-serif;
-        color black;
+        color :black;
 }
 
 
